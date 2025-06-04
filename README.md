@@ -113,7 +113,3 @@ Here are some of the technologies and tools I work with:
   <img src="https://komarev.com/ghpvc/?username=jospag&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=90&section=footer" alt="Footer Wave" />
-</div>
-
