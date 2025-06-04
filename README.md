@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/jospag">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Olorunnishola%20Emmanuel&fontSize=75&animation=fadeIn&fontAlignY=38&descAlignY=51&desc=Passionate%20Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Olorunnishola%20Emmanuel&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&desc=Passionate%20Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlign=62"/>
   </a>
 </div>
 
@@ -77,10 +77,17 @@ Here are some of the technologies and tools I work with:
 
 ## ✨ Featured Projects
 
-<!-- Replace with your actual pinned projects or remove this section -->
-<!-- You can generate pins using: https://github-readme-stats.vercel.app/api/pin/?username=jospag&repo=YOUR_REPO_NAME&theme=tokyonight -->
 <p align="center">
-  <i>(Add your featured projects here! Check GitHub settings to pin repositories to your profile, or use the link above to generate project cards.)</i>
+  <a href="https://github.com/jospag/sequence-risk-comic-builder-final">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jospag&repo=sequence-risk-comic-builder-final&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/jospag/e-commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jospag&repo=e-commerce&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/jospag/employee_management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jospag&repo=employee_management&theme=tokyonight&hide_border=true" />
+  </a>
+  <!-- Add more project pins if desired -->
 </p>
 
 ---
