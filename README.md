@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/jospag">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Olorunnishola%20Emmanuel&fontSize=75&animation=fadeIn&fontAlignY=35&descAlignY=55&desc=Passionate%20Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Olorunnishola%20Emmanuel&fontSize=75&animation=fadeIn&fontAlignY=35&descAlignY=50&desc=Passionate%20Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlign=50"/>
   </a>
 </div>
 
