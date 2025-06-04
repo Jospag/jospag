@@ -114,6 +114,6 @@ Here are some of the technologies and tools I work with:
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=90&section=footer" alt="Footer Wave" />
 </div>
 
