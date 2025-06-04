@@ -60,8 +60,9 @@ Here are some of the technologies and tools I work with:
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jospag&layout=compact&theme=tokyonight&hide_border=true" />
   <br>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jospag&theme=tokyonight&hide_border=true" />
-  <!-- Optional: Add GitHub Profile Trophy -->
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=jospag&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <br>
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=jospag&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -93,7 +94,10 @@ Here are some of the technologies and tools I work with:
   <a href="mailto:emmanuel.o9109@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;
- 
+  <!-- Add other social links if desired -->
+  <!-- <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>&nbsp; -->
 </p>
 
 ---
