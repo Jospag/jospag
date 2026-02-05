@@ -16,7 +16,7 @@
 
 I'm a dedicated and curious software developer with a strong foundation in building robust and efficient applications. My journey in tech is fueled by a passion for solving complex problems and continuously learning new technologies. I thrive in collaborative environments and enjoy contributing to projects that make a positive impact.
 
-*   🌱 I’m currently deepening my expertise in Cloud Native technologies, Financial technologies, and Microservices.
+*   🌱 I’m currently deepening my expertise in Cloud Native technologies, Financial technologies, Microservices, and Leadership.
 *   👯 I’m looking to collaborate on innovative web applications.
 *   💬 Ask me about Java, Python, Backend Development, and General software development life cycle.
 *   📫 How to reach me: Connect with me via the links below!
