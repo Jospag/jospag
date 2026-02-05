@@ -16,12 +16,11 @@
 
 I'm a dedicated and curious software developer with a strong foundation in building robust and efficient applications. My journey in tech is fueled by a passion for solving complex problems and continuously learning new technologies. I thrive in collaborative environments and enjoy contributing to projects that make a positive impact.
 
-*   🌱 I’m currently deepening my expertise in [mention specific technology/area, e.g., Cloud Native technologies, Microservices].
-*   👯 I’m looking to collaborate on [mention type of projects, e.g., open-source projects related to X, innovative web applications].
-*   🤔 I’m looking for help with [mention specific challenge or area, optional].
-*   💬 Ask me about [mention topics you are knowledgeable in, e.g., Java, Python, Backend Development].
+*   🌱 I’m currently deepening my expertise in Cloud Native technologies, Financial technologies, and Microservices.
+*   👯 I’m looking to collaborate on innovative web applications.
+*   💬 Ask me about Java, Python, Backend Development, and General software development life cycle.
 *   📫 How to reach me: Connect with me via the links below!
-*   ⚡ Fun fact: [Add a fun fact about yourself, optional]
+*   ⚡ Fun fact: I love watching action movies and listening to music.
 
 ---
 
